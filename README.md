@@ -1,7 +1,7 @@
 ## Hi there I am Samikshya Aryal 👋 
 
 - 🔭 I’m currently developing a web applications using MERN stack.
-- 🌱 I am planning to Docker soon.
+- 🌱 I am planning to learn Docker soon.
 
 
 
@@ -32,12 +32,13 @@
 <br />
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Samyaryal/Samyaryal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyaryal&hide=java&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Samyaryal&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Samyaryal&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/Samyaryal/Samyaryal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Samyaryal&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Samy's GitHub Stats" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Samyaryal&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Samyaryal&hide=php&theme=tokyonight" />
 </a>
+</div>
 
 
