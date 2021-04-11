@@ -31,13 +31,7 @@
 
 <br />
 
-## &#x1f4c8; GitHub Stats
-<div>
-  [![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=Samyaryal&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Samyaryal)
+[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=Samyaryal&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Samyaryal)
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Samyaryal&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Samyaryal&hide=php&theme=tokyonight" />
-</a>
-</div>
 
 
